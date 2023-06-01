@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "img": "https://files.catbox.moe/snb3s2.png",
+    "category": "Web Developer",
+    "availableJobs": 100
+  },
+  {
+    "id": 2,
+    "img": "https://files.catbox.moe/29fzqz.png",
+    "category": "Marketing Manager",
+    "availableJobs": 50
+  },
+  {
+    "id": 3,
+    "img": "https://files.catbox.moe/hu2c88.png",
+    "category": "Graphic Designer",
+    "availableJobs": 200
+  },
+  {
+    "id": 4,
+    "img": "https://files.catbox.moe/xjxhng.png",
+    "category": "Data Analyst",
+    "availableJobs": 300
+  }
+]
